@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sanukapeiris" target="blank"><img src="https://img.shields.io/twitter/follow/@sanukapeiris?logo=twitter&style=for-the-badge" alt="@sanukapeiris" /></a> </p>
 
-- 🔭 I’m currently working on [Staminagym](https://github.com/sanukapeiris/Staminagym)
+- 🔭 I’m currently working on [Portfolio](https://github.com/sanukapeiris/Portfolio.git)
 
 - 🌱 I’m currently learning **IJSE(Institute of Software Engineering)**
 
