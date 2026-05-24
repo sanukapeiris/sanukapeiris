@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://github.com/sanukapeiris/Portfolio.git)
 
-- 🌱 I’m currently learning **IJSE(Institute of Software Engineering)**
+- 🌱 I’m currently learning ** ICBT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sanukapeiris](https://github.com/sanukapeiris)
 
